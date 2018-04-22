@@ -40,9 +40,7 @@ class Single {
 var single1 = new Single("Shape of you", "2017", "4:23");
 var single2 = new Single("Perfect", "2017", "4:40");
 
-var singles = [single1, single2];
-
 
 //Console.log out the objects
 
-console.log(singles);
+console.log(single1, single2);
