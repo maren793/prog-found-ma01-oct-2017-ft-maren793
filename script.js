@@ -32,7 +32,7 @@ class Single {
   constructor(name, released, length) {
   this.name = name;
   this.released = 2017;
-  this.length = 4:23;
+  this.length = length;
   }
 }
 
